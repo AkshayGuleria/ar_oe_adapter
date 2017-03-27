@@ -1,4 +1,4 @@
-jar_files = ['util.jar', 'base.jar', 'openedge.jar']
+jar_files = ['openedge.jar']
 begin
   jar_files.each do |jarfile|
     require jarfile
