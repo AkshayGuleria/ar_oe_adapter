@@ -1,8 +1,9 @@
-# ActiveRecord OpenEgde Adapter :- NOT READY TO USE YET
+# GEM for ActiveRecord OpenEgde Adapter :- NOT READY TO USE YET
 
 Forked from: https://github.com/kantena/activerecord-openedge-adapter
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ar_oe_adapter`. To experiment with that code, run `bin/console` for an interactive prompt.
+Trying to only make [ActiveRecord OpenEgde Adapter](https://github.com/kantena/activerecord-openedge-adapter) available as a gem.
+Put your Ruby code in the file `lib/ar_oe_adapter`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
 
