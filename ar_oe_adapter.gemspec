@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Akshay Guleria"]
   spec.email         = ["akshaymca@gmail.com"]
 
-  spec.summary       = 'ActiveRecord adapter for OpenEdge' 
-  spec.description   = gem.summary 
-#  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "ActiveRecord adapter for OpenEdge"
+  spec.description   = "ActiveRecord adapter for OpenEdge" 
+  spec.homepage      = ""
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
