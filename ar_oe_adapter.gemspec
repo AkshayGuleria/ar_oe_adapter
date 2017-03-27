@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "ar_oe_adapter"
   spec.version       = ArOeAdapter::VERSION
   spec.authors       = ["Akshay Guleria"]
-  spec.email         = ["akshay.guleria@qvantel.com"]
+  spec.email         = ["akshaymca@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = 'ActiveRecord adapter for OpenEdge' 
+  spec.description   = gem.summary 
+#  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
