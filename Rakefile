@@ -1,6 +1,7 @@
-require "bundler/gem_tasks"
-require "rspec/core/rake_task"
+require 'rake'
+require File.join(File.dirname(__FILE__), 'lib/active_record/connection_adapters/openedge_adapter')
+require File.join(File.dirname(__FILE__),'test/db/migrate')
 
-RSpec::Core::RakeTask.new(:spec)
 
-task :default => :spec
+
+
